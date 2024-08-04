@@ -1,0 +1,10 @@
+[
+    {
+        "model": "wifi_email_dashboard",
+        "pk": 1,
+        "fields": {
+            "field1": "value1",
+            "field2": "value2"
+        }
+    }
+]
